@@ -4,8 +4,8 @@ Este repositório tem como objetivo auxiliar na limpeza e Backup dos dados do ba
 
 Criado script main_backup.py para Rotina de backup mensal onde será armazenado 12 backups, referente aos meses do ano, após periodo será subscrito toda a rotina alterando os meses consecutivos, exemplo:
 
-mês 01_01_2022
-mês 01_02_2022
+<mês 01_01_2022/>
+<mês 01_02_2022/>
 mês 01_03_2022
 mês 01_04_2022
 mês 01_05_2022
@@ -37,5 +37,5 @@ Criado script main_delete.py para rotina de Limpeza dos dados aonde será declar
 
 OBS:
 Para agendamento da tarefa foi utilizado o Crontab (agendador de tarefas tipo Unix)
-Script desenvolvido em Liguagem Python.
+Script desenvolvido na Liguagem Python.
 
