@@ -17,7 +17,7 @@ Criado script <strong>main_backup.py</strong> para rotina de backup mensal onde 
   mês 01_11_2022<br>
   mês 01_12_2022<br>
 
-Após o prazo de 12 meses será subscrito os backups por ordem crescente, exemplo:
+- Após o prazo de 12 meses será subscrito os backups por ordem crescente, exemplo:
 
   (mês 01_01_2023) - Backup Atualizado, assim por diante.<br>
   mês 01_02_2022<br>
@@ -33,9 +33,9 @@ Após o prazo de 12 meses será subscrito os backups por ordem crescente, exempl
   mês 01_12_2022<br>
 
 
-Criado script <strong>main_delete.py</strong> para rotina de Limpeza dos dados aonde será declarado um dia "x" do mês para limpar o banco mysql ZABBIX. 
+- Criado script <strong>main_delete.py</strong> para rotina de Limpeza dos dados aonde será declarado um dia "x" do mês para limpar o banco mysql ZABBIX. 
 
-OBS:
+<strong>OBS:</strong>
 Para agendamento da tarefa foi utilizado o Crontab (agendador de tarefas tipo Unix)
 Script desenvolvido na Liguagem Python.
 
