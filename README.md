@@ -36,6 +36,6 @@ Este repositório tem como objetivo auxiliar na limpeza e Backup dos dados do ba
 - Criado script <strong>main_delete.py</strong> para rotina de Limpeza dos dados aonde será declarado um dia "x" do mês para limpar o banco mysql ZABBIX. 
 
 <strong>OBS:</strong>
-Para agendamento da tarefa foi utilizado o Crontab (agendador de tarefas tipo Unix)
+Para agendamento da tarefa foi utilizado o Crontab (agendador de tarefas tipo Unix)<br>
 Script desenvolvido na Liguagem Python.
 
