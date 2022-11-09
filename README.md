@@ -33,7 +33,7 @@ Após o prazo de 12 meses será subscrito os backups por ordem crescente, exempl
   mês 01_12_2022<br>
 
 
-Criado script main_delete.py para rotina de Limpeza dos dados aonde será declarado um dia "x" do mês para limpar o banco mysql ZABBIX. 
+Criado script <strong>main_delete.py</strong> para rotina de Limpeza dos dados aonde será declarado um dia "x" do mês para limpar o banco mysql ZABBIX. 
 
 OBS:
 Para agendamento da tarefa foi utilizado o Crontab (agendador de tarefas tipo Unix)
