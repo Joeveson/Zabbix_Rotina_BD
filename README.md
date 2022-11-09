@@ -2,7 +2,7 @@
 
 Este repositório tem como objetivo auxiliar na limpeza e Backup dos dados do banco de dados ZABBIX [MySQL].
 
-Criado script <strong>main_backup.py</strong> para rotina de backup mensal onde será armazenado 12 backups, referente aos meses do ano, após esse periodo será subscrito toda a rotina alterando os meses consecutivos, exemplo:
+Criado script <strong>main_backup.py</strong> para rotina de backup mensal onde será armazenado 12 backups, referente aos meses do ano, exemplo:
 
   mês 01_01_2022<br>
   mês 01_02_2022<br>
