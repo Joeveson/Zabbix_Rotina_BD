@@ -17,7 +17,7 @@ Este repositório tem como objetivo auxiliar na limpeza e Backup dos dados do ba
   mês 01_11_2022<br>
   mês 01_12_2022<br>
 
-Após o prazo de 12 meses será subscrito os backups por ordem crescente, exemplo:
+- Após o prazo de 12 meses será subscrito os backups por ordem crescente, exemplo:
 
   (mês 01_01_2023) - Backup Atualizado, assim por diante.<br>
   mês 01_02_2022<br>
