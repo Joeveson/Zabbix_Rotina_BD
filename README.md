@@ -37,5 +37,4 @@ Criado script <strong>main_delete.py</strong> para rotina de Limpeza dos dados a
 
 <strong>OBS:</strong>
 Para agendamento da tarefa foi utilizado o Crontab (agendador de tarefas tipo Unix).<br>
-Script desenvolvido na Liguagem Python.
 
